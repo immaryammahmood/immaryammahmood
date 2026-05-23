@@ -1,3 +1,14 @@
 # 💫 About Me:
-👋 Hi, I’m Maryam Mahmood<br>🎯 Aspiring Software Engineer focused on full-stack development and intelligent web applications.<br>💻 Working with MERN, Next.js, TypeScript, Bootstrap, and exploring AI integration in modern solutions.<br>🌱 Currently learning about real-time systems, backend scaling, and database optimization with Prisma & MongoDB.<br>
+👋 Hi, I’m Maryam Mahmood<br>Interested in networking, Linux systems, and enterprise infrastructure. Continuously building skills through hands-on labs, simulations, and practical projects.<br>
+
+Focused on networking fundamentals including TCP/IP, subnetting, routing & switching, and network troubleshooting. Also experienced with Linux command-line environments, file management, permissions, user administration, and basic shell scripting.<br>
+
+Working with tools like Cisco Packet Tracer and Linux environments to strengthen practical understanding of networks and system-level operations.<br>
+
+Currently learning and exploring:
+• Networking & Infrastructure<br>
+• Linux System Administration<br>
+• Shell Scripting<br>
+• Open-Source Technologies<br>
+• Enterprise Networking Concepts<br>
 
