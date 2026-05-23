@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Maryam Mahmood<br>Interested in networking, Linux systems, and enterprise infrastructure. Continuously building skills through hands-on labs, simulations, and practical projects.<br>
+👋 Hi, I’m Maryam Mahmood<br>Focused on networking, Linux systems, and enterprise infrastructure with an intermediate to near-advanced skill level. Continuously developing expertise through hands-on labs, simulations, and real-world problem-solving.<br>
 
 Focused on networking fundamentals including TCP/IP, subnetting, routing & switching, and network troubleshooting. Also experienced with Linux command-line environments, file management, permissions, user administration, and basic shell scripting.<br>
 
