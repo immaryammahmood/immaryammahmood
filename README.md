@@ -10,9 +10,9 @@ Experienced with Linux command-line environments, system administration tasks, f
 Working with tools such as Cisco Packet Tracer and Linux-based systems to simulate, configure, and troubleshoot network and infrastructure scenarios.
 
 Currently strengthening skills in:
-• Networking & Infrastructure
-• Linux System Administration
-• Network Troubleshooting & Analysis
-• Shell Scripting & Automation
-• Open-Source Technologies
-• Enterprise Network Concepts
+• Networking & Infrastructure<Br>
+• Linux System Administration<Br>
+• Network Troubleshooting & Analysis<Br>
+• Shell Scripting & Automation<Br>
+• Open-Source Technologies<Br>
+• Enterprise Network Concepts<Br>
