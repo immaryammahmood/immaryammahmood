@@ -10,7 +10,6 @@ Comfortable working with Cisco IOS command-line interface and applying core netw
  
 Core Skills: TCP/IP • IPv4/IPv6 • Subnetting • Routing & Switching • VLANs • DHCP • DNS • NAT • ARP • Network Troubleshooting • Cisco IOS • Cisco Packet Tracer • Cisco Modeling Labs (CML) • Linux Basics • Network Infrastructure • Enterprise Networking<br>
 
-<br>
 Currently strengthening skills in:<br>
 <br>
 • Networking & Infrastructure<Br>
