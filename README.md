@@ -9,9 +9,8 @@ Solid understanding of TCP/IP, IPv4/IPv6 addressing, subnetting, routing protoco
 Comfortable working with Cisco IOS command-line interface and applying core networking principles across the OSI and TCP/IP models. Familiar with Linux basics, command-line usage, and foundational system administration concepts that support network operations.<br>
  
 Core Skills: TCP/IP • IPv4/IPv6 • Subnetting • Routing & Switching • VLANs • DHCP • DNS • NAT • ARP • Network Troubleshooting • Cisco IOS • Cisco Packet Tracer • Cisco Modeling Labs (CML) • Linux Basics • Network Infrastructure • Enterprise Networking<br>
- 
-Open to internship and entry-level opportunities in Network Engineering, Network Operations, and IT Infrastructure.
-
+<br>
+<br>
 Currently strengthening skills in:<br>
 <br>
 • Networking & Infrastructure<Br>
