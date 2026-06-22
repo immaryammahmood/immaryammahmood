@@ -1,5 +1,5 @@
-# 💫 About Me:
-## Hi, I’m Maryam Mahmood.
+# 💫 About Me
+<B>Hi, I’m Maryam Mahmood.<B>
 <Br>
 Focused on networking, Linux systems, and enterprise infrastructure with an intermediate to near-advanced skill level. Continuously developing expertise through hands-on labs, simulations, and real-world problem-solving.
 
