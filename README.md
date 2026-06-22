@@ -1,30 +1,18 @@
-# Maryam Mahmood — Network Engineer
+# 💫 About Me:
+## Hi, I’m Maryam Mahmood.
+<Br>
+Focused on networking, Linux systems, and enterprise infrastructure with an intermediate to near-advanced skill level. Continuously developing expertise through hands-on labs, simulations, and real-world problem-solving.
 
-Network Engineer focused on network infrastructure, routing & switching, and enterprise networking. Actively building practical experience through Cisco Networking Academy courses and hands-on labs using Cisco Packet Tracer and Cisco Modeling Labs (CML).
+Strong understanding of networking fundamentals including TCP/IP, subnetting, routing & switching, and network troubleshooting. Comfortable analyzing network behavior and diagnosing issues across different layers.
 
-## Core Skills
-- Networking fundamentals: TCP/IP, IPv4/IPv6 addressing, subnetting, routing, and switching
-- Network services and protocols: VLANs, DHCP, DNS, NAT, ARP
-- Network troubleshooting and design for enterprise environments
-- Cisco IOS command-line configuration and device management
-- Practical lab experience with Cisco Packet Tracer and Cisco Modeling Labs (CML)
-- Foundational Linux systems & command-line administration to support network operations
+Experienced with Linux command-line environments, system administration tasks, file systems, permissions, user management, and shell scripting for automation and system operations.
 
-## Tools & Technologies
-- Cisco IOS, Cisco Packet Tracer, Cisco Modeling Labs (CML)
-- TCP/IP suite, VLANs, routing protocols
-- Linux (command line, basic system administration)
+Working with tools such as Cisco Packet Tracer and Linux-based systems to simulate, configure, and troubleshoot network and infrastructure scenarios.
 
-## What I’m Working On
-I’m focused on strengthening skills in network design, advanced troubleshooting, and enterprise infrastructure. I complete hands-on labs and simulation projects to gain real-world experience and prepare for Network Engineering, Network Operations, and IT Infrastructure roles.
-
-## Interests
-- Enterprise network design and implementation
-- Routing and switching architectures
-- Network automation and operational efficiency
-- Infrastructure reliability and troubleshooting
-
-If you’d like, I can:
-- Add contact links (LinkedIn, email) or badges
-- Replace or add GitHub stats & visual badges
-- Commit this README directly to your repository
+Currently strengthening skills in:
+• Networking & Infrastructure
+• Linux System Administration
+• Network Troubleshooting & Analysis
+• Shell Scripting & Automation
+• Open-Source Technologies
+• Enterprise Network Concepts
