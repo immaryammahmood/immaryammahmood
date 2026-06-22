@@ -2,13 +2,15 @@
 
 Hi, I’m Maryam Mahmood.<br>
 
-Focused on networking, Linux systems, and enterprise infrastructure with an intermediate to near-advanced skill level. Continuously developing expertise through hands-on labs, simulations, and real-world problem-solving.
-
-Strong understanding of networking fundamentals including TCP/IP, subnetting, routing & switching, and network troubleshooting. Comfortable analyzing network behavior and diagnosing issues across different layers.
-
-Experienced with Linux command-line environments, system administration tasks, file systems, permissions, user management, and shell scripting for automation and system operations.
-
-Working with tools such as Cisco Packet Tracer and Linux-based systems to simulate, configure, and troubleshoot network and infrastructure scenarios.
+Network Engineer with a strong focus on network infrastructure, routing & switching, and enterprise networking concepts. Building practical skills through Cisco Networking Academy courses, structured lab environments, and hands-on network simulation using Cisco Packet Tracer and Cisco Modeling Labs (CML).<br>
+ 
+Solid understanding of TCP/IP, IPv4/IPv6 addressing, subnetting, routing protocols fundamentals, switching concepts, VLANs, DHCP, DNS, NAT, and ARP. Experienced in designing, configuring, and analyzing network topologies, along with troubleshooting connectivity and configuration issues in simulated environments.<br>
+ 
+Comfortable working with Cisco IOS command-line interface and applying core networking principles across the OSI and TCP/IP models. Familiar with Linux basics, command-line usage, and foundational system administration concepts that support network operations.<br>
+ 
+Core Skills: TCP/IP • IPv4/IPv6 • Subnetting • Routing & Switching • VLANs • DHCP • DNS • NAT • ARP • Network Troubleshooting • Cisco IOS • Cisco Packet Tracer • Cisco Modeling Labs (CML) • Linux Basics • Network Infrastructure • Enterprise Networking<br>
+ 
+Open to internship and entry-level opportunities in Network Engineering, Network Operations, and IT Infrastructure.
 
 Currently strengthening skills in:<br>
 <br>
