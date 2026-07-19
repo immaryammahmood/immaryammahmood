@@ -1,8 +1,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=46&pause=5000&color=4EA1FF&center=true&vCenter=true&width=1000&lines=Maryam+Mahmood" />
 </p>
 <!-- <h1 align="center"><strong>Maryam Mahmood</strong></h1> -->
+
 <p align="center">
 <b>Learning Enterprise Networking • Developing Practical Network Solutions</b>
+</p>
+<p align="center">
+<a href="mailto:immaryammahmood@outlook.com">Email</a> •
+<a href="https://www.linkedin.com/in/maryam-mahmood2811/">LinkedIn</a> •
+<a href="https://www.credly.com/users/maryam-net">Credly</a>
 </p>
 <!-- <br> -->
 
@@ -73,23 +79,18 @@ I'm currently learning Cisco CCNA v7 through Cisco Networking Academy and applyi
 
 ---
 
-**Let's connect and grow together in the networking community! 🌐** <br>
-<div align="left">
-<div align="left">
+**Let's connect and grow together in the networking community! 🌐** 
+<br>
+
+<div align="center">
+<div align="center">
 <a href="https://www.linkedin.com/in/maryam-mahmood2811/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
 <a href="mailto:immaryammahmood@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"></a>
 <a href="https://www.credly.com/users/maryam-net" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white"></a>
 </div>
-</div><br>
-
-<p align="center">
-<a href="mailto:immaryammahmood@outlook.com">Email</a> •
-<a href="https://www.linkedin.com/in/maryam-mahmood2811/">LinkedIn</a> •
-<a href="https://www.credly.com/users/maryam-net">Credly</a>
-</p>
+</div>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=immaryammahmood&label=Profile%20Views&color=58A6FF&style=flat-square" />
-&nbsp;
 <img src="https://img.shields.io/github/followers/immaryammahmood?label=Followers&style=flat-square&color=58A6FF" />
 </p>
