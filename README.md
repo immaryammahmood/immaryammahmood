@@ -24,12 +24,12 @@ I'm currently learning Cisco CCNA v7 through Cisco Networking Academy and applyi
 
 ### Currently Learning
 
-- **Cisco CCNA v7 – Introduction to Networks (ITN)**
-- **Enterprise Networking & Infrastructure**
-- **Routing & Switching Implementation**
-- **Linux Fundamentals & System Administration**
-- **Network Security Fundamentals**
-- **Python for Network Automation**
+- Cisco CCNA v7 – Introduction to Networks (ITN)
+- Enterprise Networking & Infrastructure
+- Routing & Switching Implementation
+- Linux Fundamentals & System Administration
+- Network Security Fundamentals
+- Python for Network Automation
 
 ### What I'm Working On
 
