@@ -9,12 +9,12 @@ I'm currently developing my skills in **Cisco networking**, **Linux**, and netwo
 
 ## 📚 Currently Learning
 
-- 🎯 **Cisco CCNA v7 (200-301)** - Pursuing certification
-- 🌐 **Enterprise Network Infrastructure** - Design and implementation
-- 🔀 **Routing, Switching & Network Security** - Advanced topics
-- 🐧 **Linux System Administration** - Deepening Linux knowledge
-- ☁️ **Cloud Networking Fundamentals** - AWS/Azure networking basics
-- 🐍 **Python for Network Automation** - Automating network tasks
+🎯 **Cisco CCNA v7 (200-301)** - Pursuing certification
+🌐 **Enterprise Network Infrastructure** - Design and implementation
+🔀 **Routing, Switching & Network Security** - Advanced topics
+🐧 **Linux System Administration** - Deepening Linux knowledge
+☁️ **Cloud Networking Fundamentals** - AWS/Azure networking basics
+🐍 **Python for Network Automation** - Automating network tasks
 
 ---
 
