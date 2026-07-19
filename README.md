@@ -39,33 +39,29 @@ I'm currently learning Cisco CCNA v7 through Cisco Networking Academy and applyi
 
 
 <p align="center">
-
 <a href="https://www.credly.com/badges/75508359-47fe-4dd8-87d0-f5ef31258bbc/public_url">
-  <img width="110" height="110" alt="Network Technician Career Path" src="https://github.com/user-attachments/assets/e55e2969-666f-4558-84e4-22b178a1cc36"/>
+  <img width="100" height="100" alt="Network Technician Career Path" src="https://github.com/user-attachments/assets/e55e2969-666f-4558-84e4-22b178a1cc36"/>
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.credly.com/badges/dd76b74b-109f-468c-a28b-6483ca1f410a/public_url">
-  <img width="110" height="110" alt="Network Support and Security" src="https://github.com/user-attachments/assets/b0ac7ac6-ef5b-4228-9ab2-72258440b21a" />
+  <img width="100" height="100" alt="Network Support and Security" src="https://github.com/user-attachments/assets/b0ac7ac6-ef5b-4228-9ab2-72258440b21a" />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.credly.com/badges/bfe66451-196b-447b-ba40-7905bdd33078/public_url">
-  <img width="110" height="110" alt="Network Addressing and Basic Troubleshooting" src="https://github.com/user-attachments/assets/d7c14d74-dade-419d-8de9-49126197fdcc" />
+  <img width="100" height="100" alt="Network Addressing and Basic Troubleshooting" src="https://github.com/user-attachments/assets/d7c14d74-dade-419d-8de9-49126197fdcc" />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.credly.com/badges/675ea5f2-2071-42b5-a03d-c52a4ca30d25/public_url">
-  <img width="110" height="110" alt="Networking Devices and Initial Configuration" src="https://github.com/user-attachments/assets/bb77e3dd-9cb8-45df-8cb9-a20c68fc2e94" />
+ <img width="100" height="100"" alt="Networking Devices and Initial Configuration" src="https://github.com/user-attachments/assets/bb77e3dd-9cb8-45df-8cb9-a20c68fc2e94" />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.credly.com/badges/fc7635f0-55b8-4ca8-8ca1-c990796c19de/public_url">
-  <img width="110" height="110" alt="Networking Basics" src="https://github.com/user-attachments/assets/985bb7b3-e071-44f7-8f4e-4f6859160e1d" />
+   <img width="100" height="100" alt="Networking Basics" src="https://github.com/user-attachments/assets/985bb7b3-e071-44f7-8f4e-4f6859160e1d" />
 </a>
-
-</p>
-
 </p>
 
 <p align="center">
