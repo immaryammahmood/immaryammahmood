@@ -87,8 +87,9 @@ I'm currently learning Cisco CCNA v7 through Cisco Networking Academy and applyi
 <div align="center">
 <a href="https://www.linkedin.com/in/maryam-mahmood2811/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
 <a href="mailto:immaryammahmood@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"></a>
-<a href="https://www.credly.com/users/maryam-net" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white"></a>
-</div>
+<a href="https://www.credly.com/users/maryam-net" target="_blank">
+  <img src="https://img.shields.io/badge/Credly-075E45?style=flat-square&logo=credly&logoColor=white">
+</a></div>
 </div>
 
 <p align="center">
