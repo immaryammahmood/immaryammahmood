@@ -1,20 +1,20 @@
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=46&pause=5000&color=4EA1FF&center=true&vCenter=true&width=1000&lines=Maryam+Mahmood" />
+### <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=46&pause=5000&color=4EA1FF&center=true&vCenter=true&width=1000&lines=Maryam+Mahmood" />
 </p>
 <!-- <h1 align="center"><strong>Maryam Mahmood</strong></h1> -->
 
+
 <p align="center">
 <b>Learning Enterprise Networking • Developing Practical Network Solutions</b>
-</p>
+</p><strong>
 <p align="center">
 <a href="mailto:immaryammahmood@outlook.com">Email</a> •
 <a href="https://www.linkedin.com/in/maryam-mahmood2811/">LinkedIn</a> •
 <a href="https://www.credly.com/users/maryam-net">Credly</a>
 </p>
+</strong>
 <!-- <br> -->
 
-----
-
-<!-- <br>  -->
+---
 
 ### About Me 
 
@@ -42,7 +42,7 @@ I'm currently learning Cisco CCNA v7 through Cisco Networking Academy and applyi
 
 ### Badges & Course Certificates
 
-
+<br>
 
 <p align="center">
 <a href="https://www.credly.com/badges/75508359-47fe-4dd8-87d0-f5ef31258bbc/public_url">
@@ -70,15 +70,15 @@ I'm currently learning Cisco CCNA v7 through Cisco Networking Academy and applyi
 </a>
 </p>
 
+<br>
+
 <p align="center">
   <a href="https://www.credly.com/users/maryam-net">
     <b>View All Badges on Credly →</b>
   </a>
 </p>
 
-
 ---
-
 
 **Let's connect and grow together in the networking community! 🌐** 
 <br>
@@ -92,7 +92,7 @@ I'm currently learning Cisco CCNA v7 through Cisco Networking Academy and applyi
 </a></div>
 </div>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://komarev.com/ghpvc/?username=immaryammahmood&label=Profile%20Views&color=58A6FF&style=flat-square" />
 <img src="https://img.shields.io/github/followers/immaryammahmood?label=Followers&style=flat-square&color=58A6FF" />
-</p>
+</p> -->
