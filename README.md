@@ -1,10 +1,8 @@
 ### <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=46&pause=5000&color=4EA1FF&center=true&vCenter=true&width=1000&lines=Maryam+Mahmood" />
 </p>
 <!-- <h1 align="center"><strong>Maryam Mahmood</strong></h1> -->
-
-
 <p align="center">
- <h3 align="center"> Learning Enterprise Networking • Developing Practical Network Solutions</h3>
+ <h4 align="center"> Learning Enterprise Networking • Developing Practical Network Solutions</h4>
 </p><strong>
 <p align="center">
 <a href="mailto:immaryammahmood@outlook.com">Email</a> •
