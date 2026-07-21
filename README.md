@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<b>Learning Enterprise Networking • Developing Practical Network Solutions</b>
+ <h3 align="center"> Learning Enterprise Networking • Developing Practical Network Solutions</h3>
 </p><strong>
 <p align="center">
 <a href="mailto:immaryammahmood@outlook.com">Email</a> •
@@ -80,7 +80,7 @@ I'm currently learning Cisco CCNA v7 through Cisco Networking Academy and applyi
 
 ---
 
-**Let's connect and grow together in the networking community! 🌐** 
+ ### Let's connect and grow together in the networking community! 🌐
 <br>
 
 <div align="center">
